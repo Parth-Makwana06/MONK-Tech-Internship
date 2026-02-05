@@ -57,7 +57,7 @@ I would like to thank **Monk Tech** and the mentors for providing guidance, supp
 ---
 
 ## 📧 Contact
-**Name**: Parth  
+**Name**: Parth  Makwana
 **Domain**: VLSI  
 **Location**: Gujarat, India  
 
